@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Laura</h1>
 <h3 align="center">A passionate iOS developer</h3>
-<h3 align="left">👯 I’m looking for coding buddy to code together
+<h3 align="left">👯 I’m looking for coding buddy to code together</h3>
 
 
 </p>
